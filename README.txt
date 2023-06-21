@@ -2,7 +2,7 @@ PRUEBA TÉCNICA DESARROLLADOR FULLSTACK F2X
 
 README: 
 
-Instrucciones de descarga: Se debe descargar el código fuente desde el enlace al repositorio de GitHub: https://github.com/eduardoluisgarcia/PruebaTecnicaF2X
+Instrucciones de descarga: Se debe descargar el código fuente desde el enlace al repositorio de GitHub: https://github.com/eduardoluisgarcia/PruebaTecnicaF2XEG
 
 Requisitos previos: Para poder ejecutar correctamente el proyecto en el frontend se debe instalar en el computador Node.js Versión 14.17.5, Angular versión 12.2.17 y Angular CLI Versión 12.2.18. Para el proyecto en el backend se debe tener instalado Visual C# con .Net Core 5 o visual Studio Code y el SDK de Visual Studio versión 5.
 
